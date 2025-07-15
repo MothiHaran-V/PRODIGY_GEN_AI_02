@@ -27,8 +27,7 @@ Google Colab / VS Code
 ---
 
 📁 Files
-
-PRODIGY_CyberSec_Task02_PixelEncryption.ipynb: Full implementation and result.
+Pixel_Encryption.ipynb: Full implementation and result.
 
 
 
